@@ -11,6 +11,7 @@ namespace GitTestApplication
         static void Main(string[] args)
         {
             Console.WriteLine("TEST");
+            Console.WriteLine("Added from testing branch");
         }
     }
 }
