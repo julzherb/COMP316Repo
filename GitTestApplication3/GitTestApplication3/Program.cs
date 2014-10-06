@@ -11,6 +11,8 @@ namespace GitTestApplication3
         static void Main(string[] args)
         {
             Console.WriteLine("Testing");
+
+            Console.WriteLine("we are now in the testing branch");
         }
     }
 }
