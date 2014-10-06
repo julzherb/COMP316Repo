@@ -11,6 +11,10 @@ namespace GitTestApplication
         static void Main(string[] args)
         {
             Console.WriteLine("TEST");
+<<<<<<< HEAD
+=======
+            Console.WriteLine("Added from testing branch");
+>>>>>>> parent of 9a34e3f... changed console writeline in master
         }
     }
 }
