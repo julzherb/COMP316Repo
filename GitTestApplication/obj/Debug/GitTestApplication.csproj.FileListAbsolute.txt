@@ -1,1 +1,6 @@
 C:\Users\julz\Documents\GitHub\GitTestApplication\GitTestApplication\bin\Debug\GitTestApplication.exe.config
+C:\Users\julz\Documents\GitHub\GitTestApplication\GitTestApplication\bin\Debug\GitTestApplication.exe
+C:\Users\julz\Documents\GitHub\GitTestApplication\GitTestApplication\bin\Debug\GitTestApplication.pdb
+C:\Users\julz\Documents\GitHub\GitTestApplication\GitTestApplication\obj\Debug\GitTestApplication.csprojResolveAssemblyReference.cache
+C:\Users\julz\Documents\GitHub\GitTestApplication\GitTestApplication\obj\Debug\GitTestApplication.exe
+C:\Users\julz\Documents\GitHub\GitTestApplication\GitTestApplication\obj\Debug\GitTestApplication.pdb
